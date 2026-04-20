@@ -34,6 +34,10 @@ Executive dashboard focused on revenue trends, profitability, and business perfo
 
 👉 https://github.com/nadersheikh/powerbi-sales-analysis
 
+#### 👥 HR Analytics Dashboard  
+Comprehensive workforce analytics solution covering headcount, attrition, compensation, and performance.  
+
+👉 https://github.com/nadersheikh/powerbi-hr-analytics  
 
 ## 🧠 Skills Demonstrated
 
