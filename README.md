@@ -20,20 +20,20 @@ End-to-end medallion architecture pipeline using real-time USGS earthquake data.
 👉 https://github.com/nadersheikh/fabric-usgs-earthquake-pipeline
 
 ---
+### 📊 Power BI Projects
 
-### 📊 Power BI
+#### 🌍 Regional Performance Dashboard  
+Executive dashboard analyzing regional performance across revenue, operations, and product/service mix.
 
-#### 📈 Sales Analysis Dashboard
-Executive dashboard analyzing revenue, profit, and trends.
+👉 https://github.com/nadersheikh/powerbi-regional-performance
 
-- KPI-driven executive view (Revenue, Profit, Cost)
-- Regional and product-level performance
-- Time-based trend analysis
-- Interactive filtering (store ranking, time selection)
+---
+
+#### 📈 Sales Analysis Dashboard  
+Executive dashboard focused on revenue trends, profitability, and business performance insights.
 
 👉 https://github.com/nadersheikh/powerbi-sales-analysis
 
----
 
 ## 🧠 Skills Demonstrated
 
