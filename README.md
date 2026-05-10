@@ -21,6 +21,26 @@ End-to-end medallion architecture pipeline using real-time USGS earthquake data.
 
 ---
 ### 📊 Power BI Projects
+📦 Inventory Analytics Dashboard
+Enterprise-style inventory and operational analytics solution designed to monitor inventory health, sales demand, stock movement, supplier performance, and returns analysis.
+
+Features:
+- Executive KPI reporting
+- Inventory aging and turnover analysis
+- Sales and demand trends
+- Stock movement monitoring
+- Purchasing and supplier performance tracking
+- Returns and refund analysis
+- Interactive navigation experience
+- Advanced DAX measures and KPI calculations
+
+Tools & Technologies:
+- Power BI
+- DAX
+- Power Query
+- SQL Server
+
+👉 https://github.com/nadersheikh/powerbi-inventory-analytics
 
 #### 🌍 Regional Performance Dashboard  
 Executive dashboard analyzing regional performance across revenue, operations, and product/service mix.
