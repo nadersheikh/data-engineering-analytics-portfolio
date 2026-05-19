@@ -1,14 +1,14 @@
-# Data Engineering & Analytics Portfolio
+# Engineering, Data & Analytics Portfolio
 
-End-to-end data engineering and analytics projects using Microsoft Fabric and Power BI, including medallion architecture pipelines and business intelligence dashboards.
+Engineering, analytics, and operational data platform projects utilizing Microsoft Fabric, Power BI, SQL, Python, and modern analytics architectures across telecom and business domains.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔧 Microsoft Fabric
+### Microsoft Fabric
 
-#### 📊 Earthquake Data Pipeline (Fabric)
+#### Earthquake Data Pipeline (Fabric)
 End-to-end medallion architecture pipeline using real-time USGS earthquake data.
 
 - Incremental ingestion (bootstrap + hourly)
@@ -17,12 +17,35 @@ End-to-end medallion architecture pipeline using real-time USGS earthquake data.
 - Pipeline orchestration with scheduled execution
 - Deployment pipeline design considerations
 
-👉 https://github.com/nadersheikh/fabric-usgs-earthquake-pipeline
+https://github.com/nadersheikh/fabric-usgs-earthquake-pipeline
 
 ---
-### 📊 Power BI Projects
+### 📡 Telecom Analytics Framework (Fabric + Power BI)
 
-📦 **Inventory Analytics**  
+RAN analytics framework demonstrating how Microsoft Fabric and Power BI can be utilized to support telecom KPI processing, operational analytics, and executive reporting across large scale network environments.
+
+Features:
+- Medallion architecture design concepts
+- Simulated telecom PM/KPI processing workflows
+- Bronze, Silver, and Gold data modeling approach
+- Operational KPI reporting framework
+- Power BI executive dashboard integration
+- Scalable analytics architecture concepts for telecom environments
+
+Tools & Technologies:
+- Microsoft Fabric
+- Power BI
+- PySpark
+- SQL
+- Lakehouse Architecture
+- Delta Lake
+
+Live Demo:
+https://app.powerbi.com/view?r=eyJrIjoiNGY0MDE2OWUtZjEzNC00ZmRkLTgwNjktNDRiYTE5NThhNzZjIiwidCI6IjQ2MWNiNDRiLWQ4MTEtNGEzYi05OWZmLWM4YTU3N2QzNDI1MiJ9
+
+### Power BI Projects
+
+**Inventory Analytics**  
 
 Enterprise-style inventory and operational analytics solution designed to monitor inventory health, sales demand, stock movement, supplier performance, and returns analysis.
 
@@ -42,26 +65,26 @@ Tools & Technologies:
 - Power Query
 - SQL Server
 
-👉 https://github.com/nadersheikh/powerbi-inventory-analytics
+https://github.com/nadersheikh/powerbi-inventory-analytics
 
-#### 🌍 Regional Performance Dashboard  
+#### Regional Performance Dashboard  
 Executive dashboard analyzing regional performance across revenue, operations, and product/service mix.
 
-👉 https://github.com/nadersheikh/powerbi-regional-performance
+https://github.com/nadersheikh/powerbi-regional-performance
 
 ---
 
 #### 📈 Sales Analysis Dashboard  
 Executive dashboard focused on revenue trends, profitability, and business performance insights.
 
-👉 https://github.com/nadersheikh/powerbi-sales-analysis
+https://github.com/nadersheikh/powerbi-sales-analysis
 
-#### 👥 HR Analytics Dashboard  
+#### HR Analytics Dashboard  
 Comprehensive workforce analytics solution covering headcount, attrition, compensation, and performance.  
 
-👉 https://github.com/nadersheikh/powerbi-hr-analytics  
+https://github.com/nadersheikh/powerbi-hr-analytics  
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Microsoft Fabric (Lakehouse, Notebooks, Pipelines)
 - Data Engineering (ETL / ELT design)
@@ -72,6 +95,6 @@ Comprehensive workforce analytics solution covering headcount, attrition, compen
 
 ---
 
-## 📬 About Me
+## About Me
 
-Data professional focused on building scalable data pipelines and delivering business insights through analytics and visualization.
+Engineering and analytics professional with experience across telecom systems, operational analytics, Microsoft Fabric, Power BI, and scalable data platform design. Focused on building analytics solutions that improve operational visibility, KPI reporting, and business decision making.
